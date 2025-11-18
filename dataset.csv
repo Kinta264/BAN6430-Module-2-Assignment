@@ -1,0 +1,69 @@
+custID,custName,Age,Product,DatePurchased,Price,RatingOfProduct,AdvertisingAgency
+1,John Doe,30,Shirt,1/10/2015,25.99,4.5,Social Media
+2,Jane Smith,28,Shoes,2/15/2015,59.99,3.8,TV
+6,Lisa Davis,45,Shoes,6/18/2015,89.99,4.8,TV
+10,Amy Thompson,29,Jeans,10/21/2015,37.99,3.9,TV
+11,Adam Clark,33,Shirt,11/28/2015,22.99,4.3,Newspapers
+12,Laura Turner,36,Shoes,12/5/2015,79.99,4.9,Social Media
+16,Olivia Smith,42,Shoes,4/2/2016,99.99,4.8,TV
+19,Michael Davis,38,Shoes,7/23/2016,79.99,4.6,TV
+21,Thomas Miller,34,Shirt,9/3/2016,18.99,4.4,Social Media
+23,James Anderson,40,Jeans,11/17/2016,44.99,4.2,Newspapers
+25,William Clark,33,Shoes,1/31/2017,79.99,4.8,TV
+26,Emily Lee,39,Jeans,3/9/2017,54.99,4.1,Newspapers
+29,Ethan Brown,32,Jeans,6/29/2017,39.99,3.9,TV
+30,Grace Davis,30,Shirt,8/6/2017,17.99,4.3,Newspapers
+31,Liam Smith,35,Shoes,9/13/2017,89.99,4.8,Social Media
+32,Charlotte Johnson,29,Jeans,10/20/2017,49.99,4,TV
+34,Amelia Anderson,31,Shoes,12/4/2017,79.99,4.9,Social Media
+36,Sophia Brown,38,Shirt,2/18/2018,26.99,4.7,Newspapers
+38,Charlotte Wilson,40,Jeans,4/3/2018,54.99,4.1,TV
+40,Olivia Clark,42,Shoes,6/17/2018,99.99,4.9,Social Media
+41,Noah Thompson,25,Jeans,7/24/2018,49.99,4,TV
+42,Isabella Anderson,29,Shirt,8/31/2018,18.99,4.4,Newspapers
+44,James Miller,34,Jeans,10/19/2018,44.99,4.2,TV
+46,Mason Davis,33,Shoes,12/3/2018,79.99,4.8,Social Media
+48,Lucas Clark,36,Shirt,2/17/2019,26.99,4.7,Newspapers
+49,Olivia Brown,38,Shoes,3/24/2019,89.99,4.9,Social Media
+51,Isabella Lee,29,Shirt,5/8/2019,18.99,4.4,Newspapers
+52,Noah Turner,31,Shoes,6/15/2019,99.99,4.9,Social Media
+53,Mia Miller,33,Jeans,7/22/2019,44.99,4.2,TV
+55,Mason Davis,36,Shoes,9/9/2019,79.99,4.8,Social Media
+56,Sophia Thompson,38,Jeans,10/16/2019,54.99,4.1,TV
+57,Lucas Clark,27,Shirt,11/23/2019,21.99,4.7,Newspapers
+58,Olivia Brown,29,Shoes,12/30/2019,89.99,4.9,Social Media
+59,Liam Anderson,31,Jeans,2/6/2020,49.99,4,TV
+60,Isabella Lee,33,Shirt,3/13/2020,18.99,4.4,Newspapers
+62,Mia Miller,27,Jeans,5/1/2020,44.99,4.2,TV
+63,Charlotte Wilson,38,Shirt,6/8/2020,26.99,4.7,Newspapers
+64,Mason Davis,36,Shoes,7/15/2020,79.99,4.8,Social Media
+65,Sophia Thompson,27,Jeans,8/22/2020,54.99,4.1,TV
+66,Lucas Clark,29,Shirt,9/29/2020,21.99,4.7,Newspapers
+67,Olivia Brown,31,Shoes,11/6/2020,89.99,4.9,Social Media
+68,Liam Anderson,33,Jeans,12/13/2020,49.99,4,TV
+70,Noah Turner,35,Shoes,2/27/2021,99.99,4.9,Social Media
+71,Mia Miller,27,Jeans,4/5/2021,44.99,4.2,TV
+73,Mason Davis,36,Shoes,6/19/2021,79.99,4.8,Social Media
+74,Sophia Thompson,27,Jeans,7/26/2021,54.99,4.1,TV
+75,Lucas Clark,29,Shirt,9/2/2021,21.99,4.7,Newspapers
+76,Olivia Brown,31,Shoes,10/9/2021,89.99,4.9,Social Media
+77,Liam Anderson,33,Jeans,11/16/2021,49.99,4,TV
+78,Isabella Lee,35,Shirt,12/23/2021,18.99,4.4,Newspapers
+79,Noah Turner,27,Shoes,1/30/2022,99.99,4.9,Social Media
+80,Mia Miller,38,Jeans,3/9/2022,44.99,4.2,TV
+81,Charlotte Wilson,36,Shirt,4/16/2022,26.99,4.7,Newspapers
+83,Sophia Thompson,39,Jeans,6/30/2022,54.99,4.1,TV
+84,Lucas Clark,29,Shirt,8/6/2022,21.99,4.7,Newspapers
+85,Olivia Brown,31,Shoes,9/13/2022,89.99,4.9,Social Media
+86,Liam Anderson,33,Jeans,10/20/2022,49.99,4,TV
+87,Isabella Lee,35,Shirt,11/27/2022,18.99,4.4,Newspapers
+89,Mia Miller,27,Jeans,1/11/2014,44.99,4.2,TV
+90,Charlotte Wilson,38,Shirt,2/18/2014,26.99,4.7,Newspapers
+91,Mason Davis,36,Shoes,3/27/2014,79.99,4.8,Social Media
+92,Sophia Thompson,27,Jeans,5/4/2014,54.99,4.1,TV
+93,Lucas Clark,29,Shirt,6/11/2014,21.99,4.7,Newspapers
+94,Olivia Brown,31,Shoes,7/18/2014,89.99,4.9,Social Media
+95,Liam Anderson,33,Jeans,8/25/2014,49.99,4,TV
+96,Isabella Lee,35,Shirt,10/2/2014,18.99,4.4,Newspapers
+98,Mia Miller,38,Jeans,11/16/2014,44.99,4.2,TV
+100,Mason Davis,27,Shoes,1/30/2013,79.99,4.8,Social Media
